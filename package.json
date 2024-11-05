@@ -1,8 +1,8 @@
 {
   "name": "trip-to-mars",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "a simple app for demo purpose",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.17.1",
     "lodash": "^4.17.15"
