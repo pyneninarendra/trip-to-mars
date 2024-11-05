@@ -14,6 +14,6 @@
     "start": "node server.js",
     "test": "node test.js"
   },
-  "author": "Joe Eames",
+  "author": "Narendra Kumar",
   "license": "ISC"
 }
