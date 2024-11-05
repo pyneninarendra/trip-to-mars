@@ -8,10 +8,11 @@
     "lodash": "^4.17.15"
   },
   "devDependencies": {
-    "jshint": "^2.11.0"
+    "jshint": "^2.11.0",
+    "nodemon": "^3.1.7"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "nodemon server",
     "test": "node test.js"
   },
   "author": "Narendra Kumar",
